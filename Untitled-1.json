@@ -1,0 +1,24 @@
+{
+    "buildings" : [
+        {
+            "name" : "test1",
+            "level": 0,
+            "pos" : {
+                "x": 0,
+                "y": 0
+            }
+
+        }
+    ],
+    "temp_config" : {
+        "troops_max_levels" : {
+
+        },
+        "upgrade_queue" : [
+
+        ]
+    },
+    "config" : {
+
+    }
+}
